@@ -1,0 +1,1 @@
+The Image Search Engine project is an advanced tool designed to provide users with the ability to search for images using various input methods, including text queries and visual examples. Utilizing cutting-edge machine learning algorithms and computer vision techniques, this search engine offers highly accurate and relevant image retrieval results
